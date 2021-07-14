@@ -12,7 +12,7 @@ export class Lesson {
   name: string;
 
   @Column()
-  starDate: string;
+  startDate: string;
 
   @Column()
   endDate: string;
